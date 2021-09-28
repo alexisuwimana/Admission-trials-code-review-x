@@ -2,11 +2,11 @@
 
 # Admission-trials-code-review
 
-> this is my first portifolio.
+> this is my first code review project that is being 
 
 ![screenshot](./code-review.png)
 
-home page for mobile skeleton
+a proejct review for reviewing patrners code 
 
 ## Built With
 
